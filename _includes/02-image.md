@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![A picture of (sort of) myself I drew in a previous course](https://raw.githubusercontent.com/PrismaticAxis/markdown-portfolio/add-images-links/Untitled-1.jpg)
